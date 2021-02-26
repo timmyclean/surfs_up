@@ -11,7 +11,8 @@ Using Jupyter, Flask, SQLite
 
 ## Results
  * it was found that the data on temperatures for June and December over the years doesn't fluctate to as seen by the following charts
- 
+   
+   ![plot](june.png)                                                                  ![plot](Dec.png)
 
 
 
