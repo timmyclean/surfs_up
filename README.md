@@ -9,4 +9,5 @@ Using Jupyter, Flask, SQLite
       * Gather temperature data for the months of June and December in Oahu.
       * We have also gathered information/data about percipitation, temperatures for the most recent year and specific weather station that was most active.
 
-
+## Results
+ * it was found that the data on temperatures for June and December over the years doesn't fluctate to as seen by  
