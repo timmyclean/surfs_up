@@ -5,7 +5,7 @@ Using Jupyter, Flask, SQLite
 
 ## Overview fo Project
   Dertermine if the ice cream and surf business financial plan is viable all year round.
-  - Task included;
+  - ### Task included;
       * Gather temperature data for the months of June and December in Oahu.
       * We have also gathered information/data about percipitation, temperatures for the most recent year and specific weather station that was most active.
 
