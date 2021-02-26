@@ -10,4 +10,8 @@ Using Jupyter, Flask, SQLite
       * We have also gathered information/data about percipitation, temperatures for the most recent year and specific weather station that was most active.
 
 ## Results
- * it was found that the data on temperatures for June and December over the years doesn't fluctate to as seen by  
+ * it was found that the data on temperatures for June and December over the years doesn't fluctate to as seen by the following charts
+ 
+
+
+
