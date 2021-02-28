@@ -19,9 +19,11 @@ Using Jupyter, Flask, SQLite
 
 ## Summary
 
-  * After Analysis it seems that Oahu is an ideal place to open a Surf n' Scoops Shop. The Shop would thrive on warm sunny days with ice cream sales and would sell surf merchandise on cooler or rainy days that are typically better to surf. Ensuring there are healthy alternatives for the harcore surfers such as "smoothies" would be a wasted opportunity.
+  * After Analysis it seems that Oahu is an ideal place to open a Surf n' Scoops Shop. The Shop would thrive on warm sunny days with ice cream sales and would sell surf merchandise on cooler or rainy days that are typically better to surf. Ensuring there are healthy alternatives for the hardcore surfers such as "smoothies" would be a wasted opportunity.
   * Additional Queries should include;
       - Choose alternative islands and determine there June and Dec temperature readings with the same queries used here
-      - Also 
+      - Also a query that looks at the percipitation levels of June and Dec.
+ ## Conclusion
+  - "Surf n' Scoop" coming soon!
 
 
